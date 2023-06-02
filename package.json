@@ -7,7 +7,7 @@
     "toc": "doctoc README.md --github"
   },
   "keywords": [],
-  "author": "CJ R. <cj@null.computer> (https://w3cj.sh)",
+  "author": "Aleksei Kovalev <aleksei.kovalev412> (https://w3cj.sh)",
   "license": "MIT",
   "dependencies": {
     "doctoc": "^1.4.0",

@@ -1,14 +1,9 @@
-iterm2
 alfred
 rectangle
 alt-tab
+stats
 firefox-developer-edition
 app-cleaner
-android-file-transfer
-android-platform-tools
-keepingyouawake
-discord
-slack
 vlc
 keka
 kap
@@ -16,5 +11,4 @@ time-out
 gimp
 inkscape
 visual-studio-code
-sublime-text
 insomnia
