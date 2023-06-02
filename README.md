@@ -204,6 +204,11 @@ These are my preferred settings for `Finder` and the `Dock`.
 - [Privacy Badger](https://privacybadger.org/)
 - [Cookie Autodelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete)
 - [Decentraleyes](https://decentraleyes.org/)
+- [Octotree](https://www.octotree.io/)
+- [Octolinker](https://octolinker.vercel.app/)
+- [ColorZilla](https://www.colorzilla.com/)
+- [Cookie-Editor](https://cookie-editor.cgagnier.ca/)
+- [Smart-HTTPS](https://addons.mozilla.org/en-US/firefox/addon/smart-https-revived)
 
 ### Global Modules
 
