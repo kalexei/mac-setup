@@ -12,3 +12,5 @@ gimp
 inkscape
 visual-studio-code
 insomnia
+notion
+figma

@@ -143,6 +143,8 @@ brew install stats
 - [inkscape](https://inkscape.org/)
 - [visual-studio-code](https://code.visualstudio.com/)
 - [insomnia](https://insomnia.rest/products/insomnia) - HTTP / REST / GraphQL tester / requester
+- [notion](https://www.notion.so/)
+- [figma](https://www.figma.com/)
 
 You can install them in one go by placing them all into a text file and then running brew install:
 
@@ -161,6 +163,8 @@ gimp
 inkscape
 visual-studio-code
 insomnia
+notion
+figma
 ```
 
 ```sh
