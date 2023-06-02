@@ -200,13 +200,10 @@ These are my preferred settings for `Finder` and the `Dock`.
 
 ### Firefox
 
-- Adblocker - [uBlock Origin](https://github.com/gorhill/uBlock)
-- Tracker Blocker - [Privacy Badger](https://privacybadger.org/)
-  - Firefox now includes tracker blocking, but I leave Privacy Badger enabled.
+- [uBlock Origin](https://github.com/gorhill/uBlock)
+- [Privacy Badger](https://privacybadger.org/)
 - [Cookie Autodelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete)
-  - Removes cookies from websites that are not in my whitelist whenever a tab is closed. An additional precaution to tracker blocking.
 - [Decentraleyes](https://decentraleyes.org/)
-  - Caches CDN links locally and intercepts requests to serve from the cache. Prevents CDNs from tracking you across websites.
 
 ### Global Modules
 
